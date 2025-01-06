@@ -1,6 +1,4 @@
 .controlPane {
-  overflow: auto;
-  white-space: nowrap;
   padding: 24px;
   /* Optical centering */
   padding-top: 18px;
@@ -15,8 +13,6 @@
 }
 
 .title {
-  position: sticky;
-  left: 0;
   margin: 0;
   /* Optical centering */
   margin-bottom: -4px;
